@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.coverage
+*.py[cod]
+.env
+.next/
+*.tsbuildinfo
+node_modules/
+dist/
+build/
+*.egg-info/
+data/*.db
